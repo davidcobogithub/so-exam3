@@ -3,7 +3,7 @@ from flask import Flask
 import json
 import sys
 sys.path.append('/home/operativos/so-exam3')
-from stats import Stats
+from op_stats.stats import Stats
 
 app = Flask(__name__)
 
