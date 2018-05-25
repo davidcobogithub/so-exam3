@@ -1,5 +1,1 @@
-[
-  "tests/test_stats.py::test_get_cpu_percent", 
-  "tests/test_stats.py::test_get_ram", 
-  "tests/test_stats.py::test_get_disk"
-]
+[]

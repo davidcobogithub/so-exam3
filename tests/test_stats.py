@@ -1,7 +1,7 @@
 #test_stats.py
 import pytest
 from op_stats.app import app
-from op_stats.stats import Stats
+from stats import Stats
 
 @pytest.fixture
 def client():

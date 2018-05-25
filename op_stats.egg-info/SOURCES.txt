@@ -1,9 +1,0 @@
-setup.py
-op_stats/__init__.py
-op_stats/app.py
-op_stats/stats.py
-op_stats.egg-info/PKG-INFO
-op_stats.egg-info/SOURCES.txt
-op_stats.egg-info/dependency_links.txt
-op_stats.egg-info/requires.txt
-op_stats.egg-info/top_level.txt
