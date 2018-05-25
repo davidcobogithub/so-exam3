@@ -10,16 +10,16 @@
 
 **Tabla de Contenido**
 
-  - [1. Servicio web con Flask](#1-instalación-de-zsh)
-  - [2. Pruebas unitarias para el servicio web Flask](#2-instalación-del-plugin-zsh-autosuggestions)
-  - [3. Integración continua para pruebas unitarias](#3-instalación-y-configuración-de-tmux)
-  - [4. Referencias](#4-instalación-y-configuración-de-tmux)
+  - [1. Servicio web con Flask](#1-servicio-web-con-flask)
+  - [2. Pruebas unitarias para el servicio web Flask](#2-pruebas-unitarias-para-el-servicio-web-flask)
+  - [3. Integración continua para pruebas unitarias](#3-integración-continua-para-pruebas-unitarias)
+  - [4. Referencias](#4-referencias)
 
 # Solución Parcial 3
 
 ##  1. Servicio web con Flask
 
-**1.** Se deben crear los archivos de texto llamado requirements.txt y requirements_dev.txt, que contienen las dependencias necesarias, para implementar el servicio web Flask.
+**1.** Se deben crear los archivos de texto llamados requirements.txt y requirements_dev.txt, que contienen las dependencias necesarias, para implementar el servicio web Flask.
 
 **2.** Se crea un archivo llamado stats.py el cual contiene los métodos para traer la el consumo de CPU, la memorio disponible y el espacio de disco. La implementación es la siguiente:
 
