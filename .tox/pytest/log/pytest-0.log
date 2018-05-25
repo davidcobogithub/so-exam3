@@ -1,0 +1,7 @@
+actionid: pytest
+msg: getenv
+cmdargs: ['/usr/bin/python', '-m', 'virtualenv', '--python', '/usr/bin/python', 'pytest']
+
+Already using interpreter /usr/bin/python
+New python executable in /home/operativos/so-exam3/.tox/pytest/bin/python
+Installing setuptools, pip, wheel...done.

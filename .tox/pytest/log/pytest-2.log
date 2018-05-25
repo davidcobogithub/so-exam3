@@ -1,0 +1,19 @@
+actionid: pytest
+msg: installpkg
+cmdargs: ['/home/operativos/so-exam3/.tox/pytest/bin/pip', 'install', '/home/operativos/so-exam3/.tox/dist/op_stats-0.1.0.zip']
+
+Processing ./.tox/dist/op_stats-0.1.0.zip
+Requirement already satisfied: flask in ./.tox/pytest/lib/python2.7/site-packages (from op-stats==0.1.0) (1.0.2)
+Requirement already satisfied: psutil in ./.tox/pytest/lib/python2.7/site-packages (from op-stats==0.1.0) (5.4.5)
+Requirement already satisfied: click>=5.1 in ./.tox/pytest/lib/python2.7/site-packages (from flask->op-stats==0.1.0) (6.7)
+Requirement already satisfied: Jinja2>=2.10 in ./.tox/pytest/lib/python2.7/site-packages (from flask->op-stats==0.1.0) (2.10)
+Requirement already satisfied: itsdangerous>=0.24 in ./.tox/pytest/lib/python2.7/site-packages (from flask->op-stats==0.1.0) (0.24)
+Requirement already satisfied: Werkzeug>=0.14 in ./.tox/pytest/lib/python2.7/site-packages (from flask->op-stats==0.1.0) (0.14.1)
+Requirement already satisfied: MarkupSafe>=0.23 in ./.tox/pytest/lib/python2.7/site-packages (from Jinja2>=2.10->flask->op-stats==0.1.0) (1.0)
+Building wheels for collected packages: op-stats
+  Running setup.py bdist_wheel for op-stats: started
+  Running setup.py bdist_wheel for op-stats: finished with status 'done'
+  Stored in directory: /home/operativos/.cache/pip/wheels/97/cc/f6/7b6b5d01081b1ff5350addde8e7563c525b30cad6cdbd913a0
+Successfully built op-stats
+Installing collected packages: op-stats
+Successfully installed op-stats-0.1.0

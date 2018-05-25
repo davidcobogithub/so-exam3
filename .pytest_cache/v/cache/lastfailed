@@ -1,0 +1,4 @@
+{
+  "tests/testpy.py::test_get_available_memory": true, 
+  "tests/testpy.py::test_get_disk_space": true
+}
